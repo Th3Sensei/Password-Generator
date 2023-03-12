@@ -3,10 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 </h3>
