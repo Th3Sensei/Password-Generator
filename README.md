@@ -17,7 +17,9 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 
 
 ### 🤝 Installation:
-  `pip install -r requirements.txt.`
+  `pip install -r requirements.txt`
+  
+  `Run python Gen.py`
 
 
 </br>
