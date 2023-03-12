@@ -1,5 +1,11 @@
 # Password-Generator
 
+
+![Capture](https://user-images.githubusercontent.com/116701630/224518366-785aed44-3a6a-4aa0-876a-f6f65d2ec7c2.PNG)
+
+
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
