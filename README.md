@@ -64,8 +64,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/Sl33PYKID)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sl33PYKID)](https://github.com/Sl33PYKID)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/Sl33PYKID)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sl33PYKID&layout=compact)](https://github.com/Sl33PYKID)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://github.com/Sl33PYKID)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.Sl33PYKID)](https://github.com/Sl33PYKID)
