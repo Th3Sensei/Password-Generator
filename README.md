@@ -2,6 +2,8 @@
 
 
 ![Capture](https://user-images.githubusercontent.com/116701630/224518366-785aed44-3a6a-4aa0-876a-f6f65d2ec7c2.PNG)
+![Capture2](https://user-images.githubusercontent.com/116701630/224518798-469f0a16-8836-49fe-92e5-bf04959da481.PNG)
+![Capture3](https://user-images.githubusercontent.com/116701630/224518799-23060b5e-2a6d-496f-bdd9-77718e184ba4.PNG)
 
 
 
