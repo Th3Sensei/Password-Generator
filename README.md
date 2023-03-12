@@ -3,6 +3,8 @@
 
 ![Capture](https://user-images.githubusercontent.com/116701630/224518366-785aed44-3a6a-4aa0-876a-f6f65d2ec7c2.PNG)
 ![Capture3](https://user-images.githubusercontent.com/116701630/224518799-23060b5e-2a6d-496f-bdd9-77718e184ba4.PNG)
+![Screenshot 2023-03-12 011101](https://user-images.githubusercontent.com/116701630/224518921-2b84bc35-6928-43bb-be16-bd7e2916283e.png)
+
 
 
 
@@ -14,10 +16,6 @@
 Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 </h3>
 
-<h2 align="center">![Screenshot 2023-03-12 011101](https://user-images.githubusercontent.com/116701630/224518840-ee997e82-9678-4387-89e2-f2e3e67fd8cc.png)
-
-Developer 💻!
-</h2> 
 
 ### 🤝 Installation:
   `pip install -r requirements.txt.`
