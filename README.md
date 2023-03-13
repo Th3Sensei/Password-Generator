@@ -9,7 +9,8 @@
 
 Can never think off passwords and dummy emails to sign up to stuff?
 This will generate how many emails and passwords you need,
-It will store them in a txt file in the same directory as the script 
+It will store them in a txt file in the same directory as the script.
+
 sending txt files to your webhook is optional if you dont need it feel free to take it out 
 it works for what i use it for just thought it could be useful to others, Have Fun!
 
