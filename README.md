@@ -7,7 +7,8 @@
 
 
 
-
+Can never think off passwords and dummy emails to sign up to stuff?
+This will generate how many emails and passwords you need, it works for what i use it for just thought it could be useful to others, Have Fun!
 
 
 
