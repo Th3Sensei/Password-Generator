@@ -1,6 +1,6 @@
 # Password-Generator ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Screenshot 2023-03-13 145225](https://user-images.githubusercontent.com/116701630/224740031-eaf34612-fe6e-4ab8-babb-697650d7a98f.png)
+
 
 
 
