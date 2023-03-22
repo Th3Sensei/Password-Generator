@@ -69,8 +69,4 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">SL33PY</a> 👋
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Th3Sensei)](https://github.com/Th3Sensei)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Sensei&layout=compact)](https://github.com/Th3Sensei)
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.Th3Sensei)](https://github.com/Th3Sensei)
